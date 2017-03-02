@@ -18,7 +18,7 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: rr.bain02@gmail.com
+  email_address: rbain02@gmail.com
   behance:
   bitbucket:
   dribbble:
@@ -39,7 +39,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-92876652-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
